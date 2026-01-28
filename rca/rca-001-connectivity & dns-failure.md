@@ -10,8 +10,9 @@ Lab: Cisco Packet Tracer
 - Test Hostname(s): r1, r3
 
 Screenshot Files:
-- evidence/rca-001-topology.png
-- evidence/rca-001-dns-gui.png
+![Topology](../evidence/rca-001-topology.png)
+
+![DNS GUI Evidence](../evidence/rca-001-dns-gui.png)
 
 ============================================================
 ### [2] BEFORE STATE (SYMPTOMS)
